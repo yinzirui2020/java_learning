@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="heima_auth_server" />
+        <module name="heima_common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="heima_auth_server" target="1.8" />
+      <module name="heima_common" target="1.8" />
+      <module name="sprintboot_security_ras_jwt_paren" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

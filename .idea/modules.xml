@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heima_auth_server/heima_auth_server.iml" filepath="$PROJECT_DIR$/heima_auth_server/heima_auth_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima_common/heima_common.iml" filepath="$PROJECT_DIR$/heima_common/heima_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprintboot_security_ras_jwt_paren.iml" filepath="$PROJECT_DIR$/sprintboot_security_ras_jwt_paren.iml" />
+    </modules>
+  </component>
+</project>
